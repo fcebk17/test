@@ -8,6 +8,6 @@ int main(){
     for(int i=0;i<10;++i){
         cout<<i<<endl;
     }
-
+    cout<<"hello world"<<endl;
     return 0;
 }
